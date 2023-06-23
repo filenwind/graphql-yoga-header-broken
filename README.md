@@ -6,6 +6,15 @@ v16.14.0
 
 npm -v
 8.3.1
+
+Chrome is up to date
+Version 114.0.5735.133 (Official Build) (x86_64)
+
+Safari
+Version 16.5 (18615.2.9.11.4)
+
+Firefox Release
+114.0.2
 ```
 
 ## Steps
