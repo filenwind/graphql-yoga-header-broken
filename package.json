@@ -19,7 +19,7 @@
   "homepage": "https://github.com/filenwind/graphql-yoga-header-broken#readme",
   "dependencies": {
     "graphql": "16.6.0",
-    "graphql-yoga": "4.0.1",
+    "graphql-yoga": "*",
     "next": "13.4.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
